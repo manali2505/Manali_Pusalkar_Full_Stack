@@ -1,1 +1,1 @@
-Git and GitHub Experiment 1
+Git pull demonstration for Experiment 1
